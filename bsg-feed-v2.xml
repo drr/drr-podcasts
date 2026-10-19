@@ -600,6 +600,15 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
+      <title>📀 [2.90 - Razor (extended edition)] Disc Reminder</title>
+      <description>🔁 INSTEAD: watch the unrated extended edition (101 min; Complete Series disc 15 or the Razor BD). ➕ ALSO: its disc commentary (Moore &amp; writer Michael Taylor). Skip the "Razor Flashbacks" minisodes; they're mostly already in the extended cut.</description>
+      <guid isPermaLink="false">bsg-companion-2.90-disc-0</guid>
+      <pubDate>Mon, 19 Oct 2026 18:33:33 +0000</pubDate>
+      <enclosure url="https://drr.github.io/drr-podcasts/reminders/2.90.m4a" length="86764" type="audio/mp4"/>
+      <itunes:duration>00:00:13</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>[2.90 - Razor (extended edition)] Moore Bonus: Razor Meeting</title>
       <description>Moore Bonus: Razor Meeting for 2.90 - Razor (extended edition). Set mid-Season 2. Its last 10 minutes hint at Seasons 3-4: mute (or turn off subtitles) from when the hybrid touches Shaw until it lets go; when Red One contacts Pegasus, before "This is Red One"; and when Starbuck speaks to Lee, from his "...ever think you might deserve it?" until she turns to leave.</description>
       <guid isPermaLink="false">bsg-companion-2.90-moore-0-re1</guid>
@@ -697,6 +706,15 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/0b5c3c2d-875f-44f8-b7a9-d8b9ac95041c.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057&amp;re1" length="77339585" type="audio/mpeg"/>
       <itunes:duration>01:20:33</itunes:duration>
       <itunes:episode>69</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>📀 [2.95 - The Resistance (Webisodes)] Disc Reminder</title>
+      <description>➕ ALSO: watch the 10 webisodes (Complete Series disc 11)</description>
+      <guid isPermaLink="false">bsg-companion-2.95-disc-0</guid>
+      <pubDate>Mon, 19 Oct 2026 18:33:53 +0000</pubDate>
+      <enclosure url="https://drr.github.io/drr-podcasts/reminders/2.95.m4a" length="53190" type="audio/mp4"/>
+      <itunes:duration>00:00:05</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -850,6 +868,15 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
+      <title>📀 [S3E08 - Hero] Disc Reminder</title>
+      <description>➕ ALSO: disc commentary (David Eick)</description>
+      <guid isPermaLink="false">bsg-companion-3.08-disc-0</guid>
+      <pubDate>Mon, 19 Oct 2026 18:34:23 +0000</pubDate>
+      <enclosure url="https://drr.github.io/drr-podcasts/reminders/3.08.m4a" length="59868" type="audio/mp4"/>
+      <itunes:duration>00:00:07</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>[S3E08 - Hero] Moore Commentary</title>
       <description>Moore Commentary for S3E08 - Hero.</description>
       <guid isPermaLink="false">bsg-companion-3.08-moore-0-re1</guid>
@@ -867,6 +894,15 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/e6040048-f1b2-4856-bb76-3cb504731c3d.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057&amp;re1" length="72244662" type="audio/mpeg"/>
       <itunes:duration>01:15:15</itunes:duration>
       <itunes:episode>86</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>📀 [S3E09 - Unfinished Business] Disc Reminder</title>
+      <description>🔁 INSTEAD: watch the extended cut on disc. ➕ ALSO: its commentary (Moore). Play the feed's Moore podcast after watching; it's timed to the broadcast cut.</description>
+      <guid isPermaLink="false">bsg-companion-3.09-disc-0</guid>
+      <pubDate>Mon, 19 Oct 2026 18:34:27 +0000</pubDate>
+      <enclosure url="https://drr.github.io/drr-podcasts/reminders/3.09.m4a" length="75252" type="audio/mp4"/>
+      <itunes:duration>00:00:10</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1260,6 +1296,15 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
+      <title>📀 [S4E06 - Faith] Disc Reminder</title>
+      <description>🔁 INSTEAD of the feed's Moore podcast (poor audio, left off the discs): disc commentary (Moore + the writers, Weddle &amp; Thompson)</description>
+      <guid isPermaLink="false">bsg-companion-4.06-disc-0</guid>
+      <pubDate>Mon, 19 Oct 2026 18:35:45 +0000</pubDate>
+      <enclosure url="https://drr.github.io/drr-podcasts/reminders/4.06.m4a" length="88098" type="audio/mp4"/>
+      <itunes:duration>00:00:13</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>[S4E06 - Faith] Moore Commentary</title>
       <description>Moore Commentary for S4E06 - Faith.</description>
       <guid isPermaLink="false">bsg-companion-4.06-moore-0-re1</guid>
@@ -1280,6 +1325,15 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
+      <title>📀 [S4E07 - Guess What's Coming to Dinner?] Disc Reminder</title>
+      <description>➕ ALSO: disc commentary (Moore &amp; writer Michael Angeli). This is the only Moore commentary for this episode.</description>
+      <guid isPermaLink="false">bsg-companion-4.07-disc-0</guid>
+      <pubDate>Mon, 19 Oct 2026 18:35:49 +0000</pubDate>
+      <enclosure url="https://drr.github.io/drr-podcasts/reminders/4.07.m4a" length="69265" type="audio/mp4"/>
+      <itunes:duration>00:00:09</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>[S4E07 - Guess What's Coming to Dinner?] Galacticast — Season 4, Episode 7: Guess What's Coming to Dinner?</title>
       <description>Galacticast episode for S4E07 - Guess What's Coming to Dinner?. &lt;p&gt;The Colonial Fleet and the Cylon rebels form a dubious alliance to shut down the Cylon Resurrection Hub in BSG Season 4, Episode 7: “Guess What’s Coming to Dinner.” Join Marc and Tricia as they break down this frakkin’ great episode. Bonus: Marc and Tricia’s Pain Chronicles. Not for the faint of </description>
       <guid isPermaLink="false">bsg-companion-4.07-galacticast-0-re1</guid>
@@ -1287,6 +1341,15 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/5958875e-1de7-4fb1-b218-43329de1bb16.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057&amp;re1" length="59881012" type="audio/mpeg"/>
       <itunes:duration>01:02:22</itunes:duration>
       <itunes:episode>128</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>📀 [S4E08 - Sine Qua Non] Disc Reminder</title>
+      <description>➕ ALSO: disc commentary (Moore &amp; writer Michael Taylor). This is the only Moore commentary for this episode.</description>
+      <guid isPermaLink="false">bsg-companion-4.08-disc-0</guid>
+      <pubDate>Mon, 19 Oct 2026 18:35:51 +0000</pubDate>
+      <enclosure url="https://drr.github.io/drr-podcasts/reminders/4.08.m4a" length="67235" type="audio/mp4"/>
+      <itunes:duration>00:00:08</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1317,6 +1380,15 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/8bb1e48e-1ea7-4b29-9db1-27ad0256d21a.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057&amp;re1" length="66835435" type="audio/mpeg"/>
       <itunes:duration>01:09:37</itunes:duration>
       <itunes:episode>131</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>📀 [S4E10 - Revelations] Disc Reminder</title>
+      <description>➕ ALSO (optional): featurettes on disc 17 ("The Journey", "Cylons: The Twelve", "The Untold Story")</description>
+      <guid isPermaLink="false">bsg-companion-4.10-disc-0</guid>
+      <pubDate>Mon, 19 Oct 2026 18:35:57 +0000</pubDate>
+      <enclosure url="https://drr.github.io/drr-podcasts/reminders/4.10.m4a" length="78236" type="audio/mp4"/>
+      <itunes:duration>00:00:11</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1367,6 +1439,15 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/939eab40-be97-4df7-8899-cc874d809343.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057&amp;re1" length="53281436" type="audio/mpeg"/>
       <itunes:duration>00:55:30</itunes:duration>
       <itunes:episode>136</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>📀 [S4E12 - A Disquiet Follows My Soul] Disc Reminder</title>
+      <description>🔁 INSTEAD: watch the extended cut on disc. ➕ ALSO: its commentary (Moore). Play the feed's Moore podcast after watching; it's timed to the broadcast cut.</description>
+      <guid isPermaLink="false">bsg-companion-4.12-disc-0</guid>
+      <pubDate>Mon, 19 Oct 2026 18:36:07 +0000</pubDate>
+      <enclosure url="https://drr.github.io/drr-podcasts/reminders/4.12.m4a" length="79645" type="audio/mp4"/>
+      <itunes:duration>00:00:11</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1450,6 +1531,15 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
+      <title>📀 [4.90 - The Plan] Disc Reminder</title>
+      <description>Watch the film (The Plan BD). ➕ ALSO: its disc commentary (director Olmos &amp; writer Jane Espenson); optional featurettes</description>
+      <guid isPermaLink="false">bsg-companion-4.90-disc-0</guid>
+      <pubDate>Mon, 19 Oct 2026 18:36:23 +0000</pubDate>
+      <enclosure url="https://drr.github.io/drr-podcasts/reminders/4.90.m4a" length="73879" type="audio/mp4"/>
+      <itunes:duration>00:00:10</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>[4.90 - The Plan] Galacticast — BONUS: 'The Plan' with writer Jane Espenson</title>
       <description>Galacticast episode for 4.90 - The Plan. &lt;p&gt;"There was never a plan!" In this bonus episode of Battlestar Galacticast, Marc Bernardin and Tricia Helfer are joined by Jane Espenson, writer and executive producer of the &lt;em&gt;BSG&lt;/em&gt; TV movie, &lt;em&gt;The Plan&lt;/em&gt; (released October 27, 2009). Jane talks about her time on &lt;em&gt;BSG&lt;/em&gt; and joins o TV movie covering Seasons 1-2 from the Cylons' side.</description>
       <guid isPermaLink="false">bsg-companion-4.90-galacticast-0-re1</guid>
@@ -1500,6 +1590,15 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
+      <title>📀 [S4E18 - Islanded in a Stream of Stars] Disc Reminder</title>
+      <description>🔁 INSTEAD: watch the extended cut on disc. ➕ ALSO: its commentary (Edward James Olmos, his only one). Play the feed's Moore podcast after watching; it's timed to the broadcast cut.</description>
+      <guid isPermaLink="false">bsg-companion-4.18-disc-0</guid>
+      <pubDate>Mon, 19 Oct 2026 18:36:33 +0000</pubDate>
+      <enclosure url="https://drr.github.io/drr-podcasts/reminders/4.18.m4a" length="81534" type="audio/mp4"/>
+      <itunes:duration>00:00:12</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>[S4E18 - Islanded in a Stream of Stars] Moore Commentary</title>
       <description>Moore Commentary for S4E18 - Islanded in a Stream of Stars.</description>
       <guid isPermaLink="false">bsg-companion-4.18-moore-0-re1</guid>
@@ -1517,6 +1616,15 @@
       <enclosure url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/4fa18cae-55e7-43d5-b2ac-5c0e65fec1f9.mp3?rss_browser=BAhJIg9mZWVkcGFyc2VyBjoGRVQ%3D--6249cc52a45c5995843f2b1fcedbd2955c2d7057&amp;re1" length="61916055" type="audio/mpeg"/>
       <itunes:duration>01:04:29</itunes:duration>
       <itunes:episode>151</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>📀 [S4E19 - Daybreak, Part 1] Disc Reminder</title>
+      <description>🔁 INSTEAD: watch the extended cut of all of Daybreak on disc. ➕ ALSO: its commentary (Moore &amp; Eick). Play the feed's Moore podcast after watching; it's timed to the broadcast cut.</description>
+      <guid isPermaLink="false">bsg-companion-4.19-disc-0</guid>
+      <pubDate>Mon, 19 Oct 2026 18:36:37 +0000</pubDate>
+      <enclosure url="https://drr.github.io/drr-podcasts/reminders/4.19.m4a" length="75740" type="audio/mp4"/>
+      <itunes:duration>00:00:10</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
@@ -1540,6 +1648,15 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
+      <title>📀 [S4E20 - Daybreak, Part 2 / Part 3] Disc Reminder</title>
+      <description>➕ ALSO (optional): finale featurettes on discs 18–20 ("A Look Back", "The Journey Ends", "Evolution of a Cue", …)</description>
+      <guid isPermaLink="false">bsg-companion-4.20-disc-0</guid>
+      <pubDate>Mon, 19 Oct 2026 18:36:41 +0000</pubDate>
+      <enclosure url="https://drr.github.io/drr-podcasts/reminders/4.20.m4a" length="51938" type="audio/mp4"/>
+      <itunes:duration>00:00:04</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>[S4E20 - Daybreak, Part 2 / Part 3] Galacticast — Season 4, Episode 20: Daybreak Part 2 - Ronald D. Moore</title>
       <description>Galacticast episode for S4E20 - Daybreak, Part 2 / Part 3. &lt;p&gt;Join Marc and Tricia as they're joined by a fella named Ron Moore to discuss what's technically the penultimate episode of Battlestar Galactica: "Daybreak Part 2." Whoa, talk about a home stretch!&amp;nbsp;&lt;/p&gt;&lt;p&gt;See Privacy Policy at &lt;a href="https://art19.com/privacy" rel="noopener noreferrer" targ Aired as one block. Moore's commentary for these is the one at Part 1.</description>
       <guid isPermaLink="false">bsg-companion-4.20-galacticast-0-re1</guid>
@@ -1560,6 +1677,15 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
+      <title>📀 [4.95 - Blood &amp; Chrome] Disc Reminder + Caprica: Pilot</title>
+      <description>4.95 - Blood &amp; Chrome: Watch the film (Blood &amp; Chrome BD). The feed has nothing for it. | S5E00 - Caprica: Pilot: Watch the unrated pilot. ➕ ALSO: its commentary (Moore, Eick, director Jeffrey Reiner) *Not every Caprica Blu-ray edition includes the commentaries.</description>
+      <guid isPermaLink="false">bsg-companion-4.95-disc-0</guid>
+      <pubDate>Mon, 19 Oct 2026 18:36:45 +0000</pubDate>
+      <enclosure url="https://drr.github.io/drr-podcasts/reminders/4.95.m4a" length="89177" type="audio/mp4"/>
+      <itunes:duration>00:00:14</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>[S5E01 - Caprica: Rebirth] Commentary Podcast</title>
       <description>Commentary Podcast for S5E01 - Caprica: Rebirth. Caprica S1E01. Syfy.com commentary podcast (David Eick-led, per tvacdb.sandboxen.com).</description>
       <guid isPermaLink="false">bsg-companion-6.01-moore-0-re1</guid>
@@ -1570,6 +1696,15 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
+      <title>📀 [S5E02 - Caprica: Reins of a Waterfall] Disc Reminder</title>
+      <description>➕ ALSO: disc commentary (Moore, who directed it) *Not every Caprica Blu-ray edition includes the commentaries.</description>
+      <guid isPermaLink="false">bsg-companion-6.02-disc-0</guid>
+      <pubDate>Mon, 19 Oct 2026 18:36:47 +0000</pubDate>
+      <enclosure url="https://drr.github.io/drr-podcasts/reminders/6.02.m4a" length="67706" type="audio/mp4"/>
+      <itunes:duration>00:00:08</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>[S5E02 - Caprica: Reins of a Waterfall] Commentary Podcast</title>
       <description>Commentary Podcast for S5E02 - Caprica: Reins of a Waterfall. Caprica S1E02. Syfy.com commentary podcast (David Eick-led, per tvacdb.sandboxen.com).</description>
       <guid isPermaLink="false">bsg-companion-6.02-moore-0-re1</guid>
@@ -1577,6 +1712,15 @@
       <enclosure url="https://web.archive.org/web/0/http://www.syfy.com/_cache/assets/assets/caprica_episode103_commentary.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>157</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>📀 [S5E03 - Caprica: Gravedancing] Disc Reminder</title>
+      <description>➕ ALSO: disc commentary (Jane Espenson) *Not every Caprica Blu-ray edition includes the commentaries.</description>
+      <guid isPermaLink="false">bsg-companion-6.03-disc-0</guid>
+      <pubDate>Mon, 19 Oct 2026 18:36:49 +0000</pubDate>
+      <enclosure url="https://drr.github.io/drr-podcasts/reminders/6.03.m4a" length="62494" type="audio/mp4"/>
+      <itunes:duration>00:00:07</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
