@@ -8,7 +8,7 @@
     <itunes:author>Ronald D. Moore / Tricia Helfer &amp; Marc Bernardin</itunes:author>
     <itunes:category text="TV &amp;amp; Film"/>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://archive.org/services/img/battlestar-galactica-podcast"/>
+    <itunes:image href="https://drr.github.io/drr-podcasts/bsg-cover.jpg"/>
     <item>
       <title>[S0E01 - Miniseries, Part 1] Galacticast — Mini-Series: Part 1</title>
       <description>Galacticast episode for S0E01 - Miniseries, Part 1. &lt;p&gt;&lt;em&gt;Battlestar Galactica&amp;nbsp;&lt;/em&gt;actress Tricia Helfer (Number Six) and journalist Marc Bernardin deep dive into the first part of the mini-series that launched the&amp;nbsp;&lt;em&gt;Battlestar Galactica&lt;/em&gt;&amp;nbsp;reboot. How “frak” came to be, the origin of the reboot, THAT scene with the baby and the </description>
@@ -128,7 +128,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>12</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20109%20Commentary.png"/>
     </item>
     <item>
       <title>[S1E09 - Tigh Me Up, Tigh Me Down] Galacticast — Season 1, Episode 9: Tigh Me Up, Tigh Me Down (with Edward James Olmos)</title>
@@ -159,7 +158,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>15</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20110%20Commentary.png"/>
     </item>
     <item>
       <title>[S1E10 - The Hand of God] Galacticast — Season 1, Episode 10: The Hand of God</title>
@@ -180,7 +178,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>17</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20111%20Commentary.png"/>
     </item>
     <item>
       <title>[S1E11 - Colonial Day] Galacticast — Season 1, Episode 11: Colonial Day</title>
@@ -201,7 +198,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>19</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20112%20Commentary.png"/>
     </item>
     <item>
       <title>[S1E12 - Kobol's Last Gleaming, Part 1] Galacticast — Season 1, Episode 12: Kobol's Last Gleaming (Part 1)</title>
@@ -222,7 +218,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>21</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20113%20Commentary.png"/>
     </item>
     <item>
       <title>[S1E13 - Kobol's Last Gleaming, Part 2] Galacticast — Season 1, Episode 13: Kobol's Last Gleaming (Part 2) - with RONALD D. MOORE!</title>
@@ -243,7 +238,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>23</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20201%20Commentary.png"/>
     </item>
     <item>
       <title>[S2E01 - Scattered] Galacticast — Season 2, Episode 1: Scattered</title>
@@ -264,7 +258,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>25</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20202%20Commentary.png"/>
     </item>
     <item>
       <title>[S2E02 - Valley of Darkness] Galacticast — Season 2, Episode 2: The Valley of Darkness</title>
@@ -295,7 +288,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>28</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20204%20Commentary.png"/>
     </item>
     <item>
       <title>[S2E04 - Resistance] Galacticast — Season 2, Episode 4: Resistance</title>
@@ -316,7 +308,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>30</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20205%20Commentary.png"/>
     </item>
     <item>
       <title>[S2E05 - The Farm] Galacticast — Season 2, Episode 5: The Farm</title>
@@ -337,7 +328,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>32</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20206%20Commentary.png"/>
     </item>
     <item>
       <title>[S2E06 - Home, Part 1] Galacticast — Season 2, Episode 6: Home (Part 1)</title>
@@ -358,7 +348,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>34</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20207%20Commentary.png"/>
     </item>
     <item>
       <title>[S2E07 - Home, Part 2] Galacticast — Season 2, Episode 7: Home (Part 2)</title>
@@ -389,7 +378,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>37</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20208%20Commentary.png"/>
     </item>
     <item>
       <title>[S2E08 - Final Cut] Galacticast — Season 2, Episode 8: Final Cut</title>
@@ -410,7 +398,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>39</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20209%20Commentary.png"/>
     </item>
     <item>
       <title>[S2E09 - Flight of the Phoenix] Galacticast — Season 2, Episode 9: Flight of the Phoenix</title>
@@ -431,7 +418,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>41</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20210%20Commentary.png"/>
     </item>
     <item>
       <title>[S2E10 - Pegasus] Moore Bonus: Writers Meeting</title>
@@ -442,7 +428,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>42</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Writers%20Meeting%2C%20Pt.%201.png"/>
     </item>
     <item>
       <title>[S2E10 - Pegasus] Moore Bonus: Writers Meeting</title>
@@ -453,7 +438,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>43</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Writers%20Meeting%2C%20Pt.%202.png"/>
     </item>
     <item>
       <title>[S2E10 - Pegasus] Moore Bonus: Writers Meeting</title>
@@ -464,7 +448,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>44</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Writers%20Meeting%2C%20Pt.%203.png"/>
     </item>
     <item>
       <title>[S2E10 - Pegasus] Galacticast — Season 2, Episode 10: Pegasus</title>
@@ -485,7 +468,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>46</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20211%20Commentary.png"/>
     </item>
     <item>
       <title>[S2E11 - Resurrection Ship, Part 1] Galacticast — Season 2, Episode 11: Resurrection Ship (Part 1)</title>
@@ -506,7 +488,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>48</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20212%20Commentary.png"/>
     </item>
     <item>
       <title>[S2E12 - Resurrection Ship, Part 2] Galacticast — Season 2, Episode 12: Resurrection Ship (Part 2)</title>
@@ -527,7 +508,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>50</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20213%20Commentary.png"/>
     </item>
     <item>
       <title>[S2E13 - Epiphanies] Galacticast — Season 2, Episode 13: Epiphanies</title>
@@ -548,7 +528,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>52</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20214%20Commentary.png"/>
     </item>
     <item>
       <title>[S2E14 - Black Market] Galacticast — Season 2, Episode 14: Black Market</title>
@@ -569,7 +548,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>54</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20215%20Commentary.png"/>
     </item>
     <item>
       <title>[S2E15 - Scar] Galacticast — Season 2, Episode 15: Scar</title>
@@ -590,7 +568,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>56</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20216%20Commentary.png"/>
     </item>
     <item>
       <title>[S2E16 - Sacrifice] Galacticast — Season 2, Episode 16: Sacrifice</title>
@@ -611,7 +588,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>58</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20217%20Commentary.png"/>
     </item>
     <item>
       <title>[S2E17 - The Captain's Hand] Galacticast — Season 2, Episode 17: The Captain's Hand</title>
@@ -632,7 +608,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>60</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica_%20Razor%20Meeting%2C%20Part%201.png"/>
     </item>
     <item>
       <title>[2.90 - Razor (extended edition)] Moore Bonus: Razor Meeting</title>
@@ -643,7 +618,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>61</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica_%20Razor%20Meeting%2C%20Part%202.png"/>
     </item>
     <item>
       <title>[2.90 - Razor (extended edition)] Moore Bonus: Razor Meeting</title>
@@ -654,7 +628,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>62</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica_%20Razor%20Meeting%2C%20Part%203.png"/>
     </item>
     <item>
       <title>[2.90 - Razor (extended edition)] Galacticast — BONUS: Razor</title>
@@ -675,7 +648,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>64</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20218%20Commentary.png"/>
     </item>
     <item>
       <title>[S2E18 - Downloaded] Galacticast — Season 2, Episode 18: Downloaded</title>
@@ -696,7 +668,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>66</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20219%20Commentary.png"/>
     </item>
     <item>
       <title>[S2E19 - Lay Down Your Burdens, Part 1] Galacticast — Season 2, Episode 19: Lay Down Your Burdens (Part 1)</title>
@@ -717,7 +688,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>68</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20220%20Commentary%20%28Enhanced%29.png"/>
     </item>
     <item>
       <title>[S2E20 - Lay Down Your Burdens, Part 2] Galacticast — Season 2, Episode 20: Lay Down Your Burdens (Part 2)</title>
@@ -758,7 +728,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>72</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20301-302%20Commentary%20%28Enhanced%29.png"/>
     </item>
     <item>
       <title>[S3E02 - Precipice] Moore Bonus: Roundtable Podcast</title>
@@ -769,7 +738,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>73</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Roundtable%20Podcast.png"/>
     </item>
     <item>
       <title>[S3E02 - Precipice] Galacticast — Season 3, Episodes 1 &amp; 2: Occupation/Precipice (with RONALD D. MOORE)</title>
@@ -790,7 +758,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>75</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20303%20Commentary%20%28Enhanced%29.png"/>
     </item>
     <item>
       <title>[S3E03 - Exodus, Part 1] Galacticast — Season 3, Episode 3: Exodus Part 1</title>
@@ -811,7 +778,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>77</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20304%20Commentary%20%28Enhanced%29.png"/>
     </item>
     <item>
       <title>[S3E04 - Exodus, Part 2] Galacticast — Season 3, Episode 4: Exodus Part 2</title>
@@ -832,7 +798,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>79</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20305%20Commentary%20%28Enhanced%29.png"/>
     </item>
     <item>
       <title>[S3E05 - Collaborators] Galacticast — Season 3, Episode 5: Collaborators</title>
@@ -853,7 +818,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>81</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20306%20Commentary%20%28Enhanced%29.png"/>
     </item>
     <item>
       <title>[S3E06 - Torn] Galacticast — Season 3, Episode 6: Torn</title>
@@ -874,7 +838,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>83</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20307%20Commentary%20%28Enhanced%29.png"/>
     </item>
     <item>
       <title>[S3E07 - A Measure of Salvation] Galacticast — Season 3, Episode 7: A Measure of Salvation</title>
@@ -895,7 +858,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>85</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20308%20Commentary%20%28Enhanced%29.png"/>
     </item>
     <item>
       <title>[S3E08 - Hero] Galacticast — Season 3, Episode 8: Hero (with David Eick)</title>
@@ -916,7 +878,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>87</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20309%20Commentary%20%28Enhanced%29.png"/>
     </item>
     <item>
       <title>[S3E09 - Unfinished Business] Galacticast — Season 3, Episode 9: Unfinished Business (with Jamie Barber and Edward James Olmos)</title>
@@ -937,7 +898,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>89</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20310%20Commentary%20%28Enhanced%29.png"/>
     </item>
     <item>
       <title>[S3E10 - The Passage] Galacticast — Season 3, Episode 10: The Passage</title>
@@ -958,7 +918,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>91</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20311%20Commentary%20%28Enhanced%29.png"/>
     </item>
     <item>
       <title>[S3E11 - The Eye of Jupiter] Galacticast — Season 3, Episode 11: The Eye of Jupiter</title>
@@ -979,7 +938,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>93</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20312%20Commentary%20%28Enhanced%29.png"/>
     </item>
     <item>
       <title>[S3E12 - Rapture] Galacticast — Season 3, Episode 12: Rapture</title>
@@ -1000,7 +958,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>95</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20313%20Commentary%20%28Enhanced%29.png"/>
     </item>
     <item>
       <title>[S3E13 - Taking a Break from All Your Worries] Galacticast — Season 3, Episode 13: Taking a Break from All Your Worries</title>
@@ -1021,7 +978,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>97</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20314%20Commentary%20%28Enhanced%29.png"/>
     </item>
     <item>
       <title>[S3E14 - The Woman King] Galacticast — Season 3, Episode 14: The Woman King</title>
@@ -1042,7 +998,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>99</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20315%20Bonus%20Commentary.png"/>
     </item>
     <item>
       <title>[S3E15 - A Day in the Life] Moore Commentary</title>
@@ -1053,7 +1008,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>100</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20315%20Commentary%20%28Enhanced%29.png"/>
     </item>
     <item>
       <title>[S3E15 - A Day in the Life] Galacticast — Season 3, Episode 15:  A Day in the Life</title>
@@ -1074,7 +1028,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>102</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20316%20Commentary%20%28Enhanced%29.png"/>
     </item>
     <item>
       <title>[S3E16 - Dirty Hands] Galacticast — Season 3, Episode 16: Dirty Hands</title>
@@ -1095,7 +1048,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>104</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20317%20Commentary%20%28Enhanced%29.png"/>
     </item>
     <item>
       <title>[S3E17 - Maelstrom] Galacticast — Season 3, Episode 17: Maelstrom</title>
@@ -1116,7 +1068,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>106</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20318%20Commentary%20%28Enhanced%29.png"/>
     </item>
     <item>
       <title>[S3E18 - The Son Also Rises] Moore Commentary</title>
@@ -1127,7 +1078,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>107</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Bonus%20Episode%20318%20Podcast%20with%20Mark%20Sheppard.png"/>
     </item>
     <item>
       <title>[S3E18 - The Son Also Rises] Galacticast — Season 3, Episode 18: The Son Also Rises</title>
@@ -1148,7 +1098,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>109</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20319%20Commentary%20%28Enhanced%29.png"/>
     </item>
     <item>
       <title>[S3E19 - Crossroads, Part 1] Moore Commentary</title>
@@ -1159,7 +1108,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>110</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Bonus%20Episode%20319%20Podcast%20with%20Mark%20Sheppard.png"/>
     </item>
     <item>
       <title>[S3E19 - Crossroads, Part 1] Galacticast — Season 3, Episode 19: Crossroads (Part 1)</title>
@@ -1180,7 +1128,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>112</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20320%20Commentary%20%28Enhanced%29.png"/>
     </item>
     <item>
       <title>[S3E20 - Crossroads, Part 2] Moore Bonus: Frak Party Q&amp;A</title>
@@ -1191,7 +1138,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>113</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Frak%20Party%20Q%26A.png"/>
     </item>
     <item>
       <title>[S3E20 - Crossroads, Part 2] Moore Commentary</title>
@@ -1202,7 +1148,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>114</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Bonus%20Episode%20320%20Podcast%20with%20Mark%20Sheppard.png"/>
     </item>
     <item>
       <title>[S3E20 - Crossroads, Part 2] Galacticast — Season 3, Episode 20: Crossroads (Part 2)</title>
@@ -1223,7 +1168,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>116</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20403%20Commentary%20%28Enhanced%29.png"/>
     </item>
     <item>
       <title>[S4E01 - He That Believeth in Me] Galacticast — Season 4, Episode 1: He That Believeth in Me</title>
@@ -1244,7 +1188,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>118</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20404%20Commentary%20%28Enhanced%29.png"/>
     </item>
     <item>
       <title>[S4E02 - Six of One] Galacticast — Season 4, Episode 2: "Six of One"</title>
@@ -1265,7 +1208,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>120</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20405%20Commentary%20%28Enhanced%29.png"/>
     </item>
     <item>
       <title>[S4E03 - The Ties That Bind] Galacticast — Season 4, Episode 3: The Ties That Bind</title>
@@ -1286,7 +1228,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>122</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20406%20Commentary%20%28Enhanced%29.png"/>
     </item>
     <item>
       <title>[S4E04 - Escape Velocity] Galacticast — Season 4, Episode 4: Escape Velocity</title>
@@ -1307,7 +1248,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>124</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20407%20Commentary%20%28Enhanced%29.png"/>
     </item>
     <item>
       <title>[S4E05 - The Road Less Traveled] Galacticast — Season 4, Episode 5: The Road Less Traveled</title>
@@ -1328,7 +1268,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>126</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20408%20Commentary%20%28Enhanced%29.png"/>
     </item>
     <item>
       <title>[S4E06 - Faith] Galacticast — Season 4, Episode 6: Faith</title>
@@ -1369,7 +1308,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>130</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20411%20Commentary%20%28Enhanced%29.png"/>
     </item>
     <item>
       <title>[S4E09 - The Hub] Galacticast — Season 4, Episode 9: The Hub</title>
@@ -1390,7 +1328,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>132</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20412%20Commentary%20%28Enhanced%29.png"/>
     </item>
     <item>
       <title>[S4E10 - Revelations] Galacticast — Season 4, Episode 10: "Revelations"</title>
@@ -1411,7 +1348,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>134</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20413%20Commentary%20%28Enhanced%29.png"/>
     </item>
     <item>
       <title>[S4E11 - Sometimes a Great Notion] Galacticast — Season 4, Episode 11: Sometimes a Great Notion</title>
@@ -1442,7 +1378,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>137</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20414%20Commentary%20%28Enhanced%29.png"/>
     </item>
     <item>
       <title>[S4E12 - A Disquiet Follows My Soul] Galacticast — Season 4, Episode 12: A Disquiet Follows My Soul</title>
@@ -1463,7 +1398,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>139</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20415%20Commentary%20%28Enhanced%29.png"/>
     </item>
     <item>
       <title>[S4E13 - The Oath] Galacticast — Season 4, Episode 13: The Oath</title>
@@ -1484,7 +1418,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>141</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20416%20Commentary%20%28Enhanced%29.png"/>
     </item>
     <item>
       <title>[S4E14 - Blood on the Scales] Galacticast — Season 4, Episode 14: Blood on the Scales</title>
@@ -1505,7 +1438,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>143</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20417%20Commentary%20%28Enhanced%29.png"/>
     </item>
     <item>
       <title>[S4E15 - No Exit] Galacticast — Season 4, Episode 15: No Exit</title>
@@ -1536,7 +1468,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>146</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20418%20Commentary%20%28Enhanced%29.png"/>
     </item>
     <item>
       <title>[S4E16 - Deadlock] Galacticast — Season 4, Episode 16: "Deadlock"</title>
@@ -1557,7 +1488,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>148</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20419%20Commentary%20%28Enhanced%29.png"/>
     </item>
     <item>
       <title>[S4E17 - Someone to Watch Over Me] Galacticast — Season 4, Episode 17: Someone To Watch Over Me (featuring Bear McCreary)</title>
@@ -1578,7 +1508,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>150</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episode%20420%20Commentary%20%28Enhanced%29.png"/>
     </item>
     <item>
       <title>[S4E18 - Islanded in a Stream of Stars] Galacticast — Season 4, Episode 18: Islanded In A Stream Of Stars - Edward James Olmos</title>
@@ -1599,7 +1528,6 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:episode>152</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://archive.org/download/battlestar-galactica-podcast/Battlestar%20Galactica%20Episodes%20421-423%20Commentary%20%28Enhanced%29.png"/>
     </item>
     <item>
       <title>[S4E19 - Daybreak, Part 1] Galacticast — Season 4, Episode 19: Daybreak: Part 1 - Katee Sackhoff</title>
